@@ -1,0 +1,9 @@
+E:\Projects\MTGC\ImportData\ImportData\bin
+E:\Projects\MTGC\ImportData\ImportData\bin\Debug
+E:\Projects\MTGC\ImportData\packages\
+*.dll
+*.pdb
+ImportData\packages
+/ImportData/ImportData/obj/Debug
+/ImportData/ImportData/bin/Debug
+/ImportData/packages
